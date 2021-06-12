@@ -27,7 +27,9 @@ router.get('/',function (req, res, next) {
             return  res.send(null);
         }
         let jsonData = JSON.parse(data.toString());
-        res.send(jsonData);
+
+       res.send(jsonData);
+
     });
 });
 

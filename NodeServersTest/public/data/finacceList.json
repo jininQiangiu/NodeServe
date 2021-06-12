@@ -1,0 +1,61 @@
+{
+  "succeed": true,
+  "errorCode": "0000000",
+  "errorMessage": "success",
+  "data": {
+    "totalPage": 2,
+    "pageSize": 4,
+    "page": 2,
+    "totalCount": 8,
+    "newList": [
+      {
+        "id": 1000075,
+        "userId": 1000075,
+        "bizTime": "2017-07-14 17:00:08",
+        "bizType": "004",
+        "bizTypeL2": "还款-归还代偿",
+        "bizTypeDesc": "还款",
+        "balance": "+10.00"
+      },
+      {
+        "id": 1000075,
+        "userId": 1000075,
+        "bizTime": "2017-06-15 13:35:17",
+        "bizType": "002",
+        "bizTypeL2": "提现",
+        "bizTypeDesc": "建设银行(3165)",
+        "balance": "-101.00"
+      },
+      {
+        "id": 1000075,
+        "userId": 1000075,
+        "bizTime": "2017-06-15 13:34:05",
+        "bizType": "004",
+        "bizTypeL2": "还款-归还代偿",
+        "bizTypeDesc": "还款",
+        "balance": "+10.00"
+      },
+      {
+        "id": 1000075,
+        "userId": 1000075,
+        "bizTime": "2017-06-14 14:58:12",
+        "bizType": "001",
+        "bizTypeL2": "充值",
+        "bizTypeDesc": "还款-归还代偿",
+        "balance": "-110.00"
+      }
+    ],
+    "oldList": [
+      {
+        "id": 1000075,
+        "userId": 1000075,
+        "bizTime": "2017-06-14 14:58:12",
+        "bizType": "001",
+        "bizTypeL2": "充值",
+        "bizTypeDesc": "还款-归还代偿",
+        "balance": "-110.00"
+      }
+    ],
+    "currentTime": 1510121437876
+  }
+}

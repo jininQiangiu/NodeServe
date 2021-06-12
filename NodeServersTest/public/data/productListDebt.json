@@ -25,7 +25,7 @@
         "opType" : null,
         "expect_unit_show" : "个月",
         "transferRate" : 99,
-        "price" : 19800,
+        "price" : 19800.10,
         "yieldRate" : 17.72,
         "expect" : 24
       },
@@ -51,7 +51,7 @@
         "opType" : null,
         "expect_unit_show" : "个月",
         "transferRate" : 99,
-        "price" : 19800,
+        "price" : 19800.11,
         "yieldRate" : 17.72,
         "expect" : 24
       },
@@ -77,7 +77,7 @@
         "opType" : null,
         "expect_unit_show" : "个月",
         "transferRate" : 99,
-        "price" : 19800,
+        "price" : 19800.99,
         "yieldRate" : 17.72,
         "expect" : 24
       },
@@ -103,7 +103,7 @@
         "opType" : null,
         "expect_unit_show" : "个月",
         "transferRate" : 99,
-        "price" : 19800,
+        "price" : 19800.89,
         "yieldRate" : 17.72,
         "expect" : 24
       },
@@ -129,7 +129,7 @@
         "opType" : null,
         "expect_unit_show" : "个月",
         "transferRate" : 99,
-        "price" : 19800,
+        "price" : 19800.10,
         "yieldRate" : 17.72,
         "expect" : 24
       },
@@ -155,7 +155,7 @@
         "opType" : null,
         "expect_unit_show" : "个月",
         "transferRate" : 99,
-        "price" : 49800,
+        "price" : 49800.165,
         "yieldRate" : 18.61,
         "expect" : 12
       },

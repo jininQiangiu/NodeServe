@@ -1,0 +1,14 @@
+{
+  "flag":"1",
+  "msg":"成功",
+  "welcomePicList" : [
+    {
+      "height":"960",
+      "path":"https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=102706757,2724222106&fm=27&gp=0.jpg"
+    },
+    {
+      "height": "1472",
+      "path": "http://img3.imgtn.bdimg.com/it/u=3227041,1965757778&fm=27&gp=0.jpg"
+    }
+  ]
+}
