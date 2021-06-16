@@ -11,49 +11,269 @@
       {
         "id": 1000075,
         "userId": 1000075,
-        "bizTime": "2017-07-14 17:00:08",
+        "bizTime": "1510190795000",
         "bizType": "004",
-        "bizTypeL2": "还款-归还代偿",
-        "bizTypeDesc": "还款",
-        "balance": "+10.00"
-      },
-      {
-        "id": 1000075,
-        "userId": 1000075,
-        "bizTime": "2017-06-15 13:35:17",
-        "bizType": "002",
-        "bizTypeL2": "提现",
-        "bizTypeDesc": "建设银行(3165)",
-        "balance": "-101.00"
-      },
-      {
-        "id": 1000075,
-        "userId": 1000075,
-        "bizTime": "2017-06-15 13:34:05",
-        "bizType": "004",
-        "bizTypeL2": "还款-归还代偿",
-        "bizTypeDesc": "还款",
-        "balance": "+10.00"
-      },
-      {
-        "id": 1000075,
-        "userId": 1000075,
-        "bizTime": "2017-06-14 14:58:12",
-        "bizType": "001",
         "bizTypeL2": "充值",
-        "bizTypeDesc": "还款-归还代偿",
-        "balance": "-110.00"
+        "bizTypeL2Code":"100",
+        "bizTypeDesc": "中国银行（9903）",
+        "actualAmount": "-101.00",
+        "transId":"1231243",
+        "fee":[],
+        "couponInfo":"",
+        "platformName":"名校贷",
+        "withdrawAmount":"666"
+      },
+      {
+        "id": 1000075,
+        "userId": 1000075,
+        "bizTime": "1510190795000",
+        "bizType": "004",
+        "bizTypeL2": "放款",
+        "bizTypeL2Code":"110",
+        "bizTypeDesc": "应届贷放款",
+        "actualAmount": "-12000.00",
+        "transId":"1231243",
+        "fee":[
+                {
+                  "info":"预收咨询费",
+                  "amount":"12.00"
+                }
+        ],
+        "couponInfo":"",
+        "platformName":"名校贷",
+        "withdrawAmount":"666"
+      },
+      {
+        "id": 1000075,
+        "userId": 1000075,
+        "bizTime": "1510190795000",
+        "bizType": "004",
+        "bizTypeL2": "提现",
+        "bizTypeL2Code":"200",
+        "bizTypeDesc": "中国银行（9903）",
+        "actualAmount": "-12000.00",
+        "transId":"1231243",
+        "fee":[
+          {
+            "info":"手续费",
+            "amount":"12.00"
+          }
+        ],
+        "couponInfo":"",
+        "platformName":"名校贷",
+        "withdrawAmount":"11998"
+      },
+      {
+        "id": 1000075,
+        "userId": 1000075,
+        "bizTime": "1510190795000",
+        "bizType": "004",
+        "bizTypeL2": "提现失败退款",
+        "bizTypeL2Code":"210",
+        "bizTypeDesc": "中国银行（9903）",
+        "actualAmount": "+12000.00",
+        "transId":"1231243",
+        "fee":[
+          {
+            "info":"手续费",
+            "amount":"12.00"
+          }
+        ],
+        "couponInfo":"",
+        "platformName":"名校贷",
+        "withdrawAmount":"11998"
+      },
+      {
+        "id": 1000075,
+        "userId": 1000075,
+        "bizTime": "1510190795000",
+        "bizType": "004",
+        "bizTypeL2": "投资",
+        "bizTypeL2Code":"300",
+        "bizTypeDesc": "中国银行（9903）",
+        "actualAmount": "-12000.00",
+        "transId":"1231243",
+        "fee":[],
+        "couponInfo":"投资13000元|现金券-1000元",
+        "platformName":"诺诺镑客",
+        "withdrawAmount":"11998"
+      },
+      {
+        "id": 1000075,
+        "userId": 1000075,
+        "bizTime": "1510190795000",
+        "bizType": "004",
+        "bizTypeL2": "流标退款",
+        "bizTypeL2Code":"310",
+        "bizTypeDesc": "中国银行（9903）",
+        "actualAmount": "-12000.00",
+        "transId":"1231243",
+        "fee":[],
+        "couponInfo":"投资13000元|现金券-1000元",
+        "platformName":"诺诺镑客",
+        "withdrawAmount":"11998"
+      },
+      {
+        "id": 1000075,
+        "userId": 1000075,
+        "bizTime": "1510190795000",
+        "bizType": "004",
+        "bizTypeL2": "还款类型1",
+        "bizTypeL2Code":"320",
+        "bizTypeDesc": "应届借还款",
+        "actualAmount": "-12002.00",
+        "transId":"1231243",
+        "fee":[
+          {
+            "info":"技术服务费",
+            "amount":"2.00"
+          }
+        ],
+        "couponInfo":"减息券-1.00 现金券-1.00",
+        "platformName":"名校贷",
+        "withdrawAmount":"11998"
+      },
+      {
+        "id": 1000075,
+        "userId": 1000075,
+        "bizTime": "1510190795000",
+        "bizType": "004",
+        "bizTypeL2": "还款类型2",
+        "bizTypeL2Code":"320",
+        "bizTypeDesc": "应届借还款",
+        "actualAmount": "-12002.00",
+        "transId":"1231243",
+        "fee":[
+          {
+            "info":"提前还款违约金",
+            "amount":"6.00"
+          },
+          {
+            "info":"技术服务费",
+            "amount":"6.00"
+          }
+        ],
+        "couponInfo":"减息券-1.00 现金券-1.00",
+        "platformName":"名校贷",
+        "withdrawAmount":"11998"
+      },
+      {
+        "id": 1000075,
+        "userId": 1000075,
+        "bizTime": "1510190795000",
+        "bizType": "004",
+        "bizTypeL2": "还款类型3",
+        "bizTypeL2Code":"320",
+        "bizTypeDesc": "应届借还款",
+        "actualAmount": "-12002.00",
+        "transId":"1231243",
+        "fee":[
+          {
+            "info":"逾期代偿服务费",
+            "amount":"6.00"
+          },
+          {
+            "info":"提前还款违约金",
+            "amount":"6.00"
+          },
+          {
+            "info": "技术服务费",
+            "amount": "6.00"
+          }
+        ],
+        "couponInfo":"减息券-1.00 现金券-1.00",
+        "platformName":"名校贷",
+        "withdrawAmount":"11998"
+      },
+      {
+        "id": 1000075,
+        "userId": 1000075,
+        "bizTime": "1510190795000",
+        "bizType": "004",
+        "bizTypeL2": "咨询费返回",
+        "bizTypeL2Code":"330",
+        "bizTypeDesc": "应届借还款返回咨询费",
+        "actualAmount": "+10.00",
+        "transId":"1231243",
+        "fee":[
+
+        ],
+        "couponInfo":"",
+        "platformName":"名校贷",
+        "withdrawAmount":"11998"
+      },
+      {
+        "id": 1000075,
+        "userId": 1000075,
+        "bizTime": "1510190795000",
+        "bizType": "004",
+        "bizTypeL2": "本息回款",
+        "bizTypeL2Code":"400",
+        "bizTypeDesc": "诺诺盈145期回款",
+        "actualAmount": "+10.00",
+        "transId":"1231243",
+        "fee":[
+
+        ],
+        "couponInfo":"",
+        "platformName":"诺诺镑客",
+        "withdrawAmount":"11998"
+      },
+      {
+        "id": 1000075,
+        "userId": 1000075,
+        "bizTime": "1510190795000",
+        "bizType": "004",
+        "bizTypeL2": "债转",
+        "bizTypeL2Code":"410",
+        "bizTypeDesc": "转让贴心计划4135期",
+        "actualAmount": "+10.00",
+        "transId":"1231243",
+        "fee":[
+
+        ],
+        "couponInfo":"",
+        "platformName":"诺诺镑客",
+        "withdrawAmount":"11998"
+      },
+      {
+        "id": 1000075,
+        "userId": 1000075,
+        "bizTime": "1510190795000",
+        "bizType": "004",
+        "bizTypeL2": "其他",
+        "bizTypeL2Code":"500",
+        "bizTypeDesc": "镑客大使2017-0401奖励0.01元",
+        "actualAmount": "+10.00",
+        "transId":"1231243",
+        "fee":[
+
+        ],
+        "couponInfo":"",
+        "platformName":"诺诺镑客",
+        "withdrawAmount":"11998"
       }
     ],
     "oldList": [
       {
         "id": 1000075,
         "userId": 1000075,
-        "bizTime": "2017-06-14 14:58:12",
+        "bizTime": "1497423492000",
         "bizType": "001",
         "bizTypeL2": "充值",
-        "bizTypeDesc": "还款-归还代偿",
-        "balance": "-110.00"
+        "bizTypeDesc": "这条是旧数据-还款-归还代偿",
+        "balance": "-110.00",
+        "actualAmount": "-110.00"
+      },
+      {
+        "id": 1000075,
+        "userId": 1000075,
+        "bizTime": "1465887492000",
+        "bizType": "001",
+        "bizTypeL2": "充值",
+        "bizTypeDesc": "这条是旧数据-还款-归还代偿",
+        "balance": "-110.00",
+        "actualAmount": "-110.00"
       }
     ],
     "currentTime": 1510121437876
